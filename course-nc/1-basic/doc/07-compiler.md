@@ -16,8 +16,8 @@
     $ tsc
 
 
-## AUTOMATIC COMPILATION
+## AUTOMATIC COMPILATION FOR ALLS
 
-    $ 
+    $ tsc -w 
 
 
