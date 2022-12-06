@@ -1,4 +1,0 @@
-
-# TYPESCRIPT
-
-    - TypeScript
